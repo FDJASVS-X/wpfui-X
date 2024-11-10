@@ -1,6 +1,12 @@
 ![WPF UI Banner Dark](https://user-images.githubusercontent.com/13592821/174165081-9c62d188-ecb6-4200-abd8-419afbaf32c2.png#gh-dark-mode-only)
 ![WPF UI Banner Light](https://user-images.githubusercontent.com/13592821/174165388-921c4745-90ed-4396-9a4b-9c86478f7447.png#gh-light-mode-only)
 
+# wpfui-X [WIP]
+
+Modified In Poland With ❤
+
+wpfui-X provides a Windows 10 UI for Windows 10 users. 
+
 # WPF UI
 
 [Created with ❤ in Poland by lepo.co](https://lepo.co/)  
@@ -159,9 +165,3 @@ This project has adopted the code of conduct defined by the Contributor Covenant
 
 **WPF UI** is free and open source software licensed under **MIT License**. You can use it in private and commercial projects.  
 Keep in mind that you must include a copy of the license in your project.
-
-# wpfui-X [WIP]
-
-Modified In Poland With ❤
-
-wpfui-X provides a Windows 10 UI for Windows 10 users. 
