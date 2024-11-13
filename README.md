@@ -5,7 +5,9 @@
 
 Modified In Poland With ❤
 
-wpfui-X provides a Windows 10 UI for Windows 10 users. 
+Features:
+- Windows 10 UI for Windows 10 users. [WIP]
+- New Themes. 
 
 # WPF UI
 
